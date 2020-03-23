@@ -1,0 +1,15 @@
+<s> </s>	0.384615
+I <s>	0.307692
+am I	0.320000
+Sam am	0.230769
+</s> Sam	0.307692
+Sam <s>	0.153846
+I Sam	0.153846
+</s> am	0.153846
+do I	0.173913
+not do	0.173913
+like not	0.173913
+green like	0.173913
+eggs green	0.173913
+and eggs	0.173913
+Sam and	0.153846
